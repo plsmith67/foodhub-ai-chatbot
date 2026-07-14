@@ -48,3 +48,9 @@ FoodHub can use this type of chatbot to reduce routine support workload, improve
 
 - `Responsible Generative AI Solutions FoodHub Chatbot.ipynb` - project notebook
 - `Responsible Generative AI Solutions FoodHub Chatbot.html` - final submitted HTML version
+
+## Live Portfolio Page
+
+View the project on Hugging Face:
+
+[FoodHub Chatbot Portfolio](https://huggingface.co/spaces/milewire/foodhub-chatbot-demo)
